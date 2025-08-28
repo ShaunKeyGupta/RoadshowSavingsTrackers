@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoadshowSavingsTrackers/static/css/main.e6c13ad2.css",
+    "main.js": "/RoadshowSavingsTrackers/static/js/main.424a8ce3.js",
+    "static/js/453.62fc0861.chunk.js": "/RoadshowSavingsTrackers/static/js/453.62fc0861.chunk.js",
+    "index.html": "/RoadshowSavingsTrackers/index.html",
+    "main.e6c13ad2.css.map": "/RoadshowSavingsTrackers/static/css/main.e6c13ad2.css.map",
+    "main.424a8ce3.js.map": "/RoadshowSavingsTrackers/static/js/main.424a8ce3.js.map",
+    "453.62fc0861.chunk.js.map": "/RoadshowSavingsTrackers/static/js/453.62fc0861.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.424a8ce3.js"
+  ]
+}
